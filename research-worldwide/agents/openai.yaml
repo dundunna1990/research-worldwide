@@ -1,0 +1,4 @@
+interface:
+  display_name: "Worldwide Researcher"
+  short_description: "Research worldwide evidence in multiple languages"
+  default_prompt: "Use $research-worldwide to investigate my question with original sources, relevant languages, and clear evidence limits."

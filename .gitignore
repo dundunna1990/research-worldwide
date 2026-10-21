@@ -1,0 +1,17 @@
+# Never commit local secrets or operational state
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*credentials*
+*secrets*
+__pycache__/
+*.pyc
+*.sqlite
+*.sqlite3
+.DS_Store
+.codex/
+.backups/
+work/
+outputs/
